@@ -1,0 +1,2 @@
+“Pulse Sensor” is a well-designed plug-and-play heart-rate sensor for Arduino.
+It can be used by students, artists, athletes, makers, and game & mobile developers who want to easily incorporate live heart-rate data into their projects.  Full project details at www.pulsesensor.com
